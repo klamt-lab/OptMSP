@@ -14,6 +14,7 @@ MultiStagePackage
 ### Install commands
 I recommend to install the [```conda-libmamba-solver```](https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community) for faster installation of the environment. Type in terminal:
 `CONDA_EXPERIMENTAL_SOLVER=classic conda install -n base conda-libmamba-solver=23.3`
+
 `conda config --set solver libmamba`
 
 Create environment:
