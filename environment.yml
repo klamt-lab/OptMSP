@@ -7,13 +7,14 @@ channels:
     - plotly
 
 dependencies:
-    - pandas
-    - matplotlib
-    - scipy
-    - jupyter
-    - ipykernel
-    - plotly
-    - seaborn
-    - pygmo
-    - polars    # faster saving/loading dataframes
-    - pyarrow
+    - python=3.8.15
+    - pandas=1.5.2
+    - matplotlib=3.6.2
+    - scipy=1.9.3
+    - jupyter=1.0.0
+    - ipykernel=6.9.1
+    - plotly=5.11.0
+    - seaborn=0.12.1s
+    - pygmo=2.19.0
+    - polars=0.19.7    # faster saving/loading dataframes
+    - pyarrow=10.0.1
