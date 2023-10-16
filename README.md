@@ -28,7 +28,7 @@ Type in terminal:
 
 Create environment:
 
-`conda env create -f environment.yml`
+`conda env create -f environment.yml python=3.8.15`
 
 
 
