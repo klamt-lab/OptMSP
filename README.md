@@ -5,10 +5,14 @@ OptMSP is a toolbox for optimal design of multi-stage processes, that determines
 ### This repository includes:
 MultiStagePackage
   - ```OptMSPfunctions.py``` = including all functions for OptMS to work
-  - ```models.py``` = the models for the case study (rate values based on [Wichmann *et al.*](https://doi.org/10.1016/j.ymben.2023.04.006)) 
+  - ```models.py``` = the models for the case study (rate values based on [Wichmann *et al.*](https://doi.org/10.1016/j.ymben.2023.04.006))
+    
 ```ModelingTutorial.ipynb``` = Notebook that describes how models are implemented and how custom models could be included
+
 ```OptMSP_MainFunctions.ipynb``` = Notebook that describes all essential functions of OptMSP with examples
+
 ```OptMSP_SupportFunctions.ipynb``` = Notebook that descibes a few supporting functions of OptMSP with examples
+
 ```environment.yml``` = Dependency file for conda environment
 
 ### Install instructions
