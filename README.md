@@ -12,6 +12,8 @@ OptMSP is a toolbox for optimal design of multi-stage processes, that determines
 - ```OptMSP_MainFunctions.ipynb``` = Notebook that describes all essential functions of OptMSP with examples
 
 - ```OptMSP_SupportFunctions.ipynb``` = Notebook that descibes a few supporting functions of OptMSP with examples
+  
+- ```CaseStudy.ipynb``` = Different tests of finding optimal 1-, 2- and 3-Stage processes with OptMSP based on data from [Wichmann *et al.*](https://doi.org/10.1016/j.ymben.2023.04.006)
 
 - ```environment.yml``` = Dependency file for conda environment
 
