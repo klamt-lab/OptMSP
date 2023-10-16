@@ -11,7 +11,7 @@ MultiStagePackage
 ```OptMSP_SupportFunctions.ipynb``` = Notebook that descibes a few supporting functions of OptMSP with examples
 ```environment.yml``` = Dependency file for conda environment
 
-### Install commands
+### Install instructions
 I recommend to install the [```conda-libmamba-solver```](https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community) for faster installation of the environment. Type in terminal:
 `CONDA_EXPERIMENTAL_SOLVER=classic conda install -n base conda-libmamba-solver=23.3`
 
