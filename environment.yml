@@ -1,0 +1,19 @@
+name: optmsp
+
+channels:
+    - conda-forge
+    - anaconda
+    - bjrn
+    - plotly
+
+dependencies:
+    - pandas
+    - matplotlib
+    - scipy
+    - jupyter
+    - ipykernel
+    - plotly
+    - seaborn
+    - pygmo
+    - polars    # faster saving/loading dataframes
+    - pyarrow
