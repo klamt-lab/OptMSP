@@ -1,0 +1,11 @@
+Name;Unit;value
+mue_OSF;1/h;1.0
+r_S_OSF;mmol/(gDW*h);1.0
+r_P_OSF;mmol/(gDW*h);1.0
+q_S_OSF;mmol/(L*h);1.0
+q_P_OSF;mmol/(L*h);1.0
+mue_TSF;1/h;1.0
+r_S_TSF;mmol/(gDW*h);1.0
+r_P_TSF;mmol/(gDW*h);1.0
+q_S_TSF;mmol/(L*h);1.0
+q_P_TSF;mmol/(L*h);1.0
